@@ -20,4 +20,4 @@ local P = game:GetService("Players")
 
 local LP = P.LocalPlayer or P.PlayerAdded:Wait()
 
-LP:Kick("Free Trial Ended\nJoin Discord for Updates\nhttps://discord.gg/DcuD7ujtWz")
+LP:Kick("Free Trial Ended\nJoin Discord for Updates\ngg / DcuD7ujtWz")
